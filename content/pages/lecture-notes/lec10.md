@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 title: 10 - The Reign of Sultan al-Nasir Muhammad (1293-1341)
 uid: b5a5d49b-2169-a890-6fd3-f15eef9cfc0f
@@ -27,7 +31,7 @@ uid: b5a5d49b-2169-a890-6fd3-f15eef9cfc0f
 **The Khanqah-Qubba of Princess Tughay:** (1348) One of the earliest structures in the Northern Qarafa, this ruined structure is the tomb of the favorite wife of al-Nasir Muhammad and the mother of his favorite son Anuk. It shows many eastern influences in its decoration.
 
 **Monuments**
-{{< image-gallery id="b5a5d49b-2169-a890-6fd3-f15eef9cfc0f_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-615-the-architecture-of-cairo-spring-2002/" >}}
+{{< image-gallery id="b5a5d49b-2169-a890-6fd3-f15eef9cfc0f_nanogallery2" baseUrl="/courses/4-615-the-architecture-of-cairo-spring-2002/" >}}
 {{< image-gallery-item href="4987667d02bd6d60e4bb71a4e29def77_1056.gif" data-ngdesc="The Madrasa of Sultan al-Nasir Muhammad: The Gothic Portal of the Madrasa, which was taken from a church in Crusader Acre." text="The Madrasa of Sultan al-Nasir Muhammad: The Gothic Portal of the Madrasa, which was taken from a church in Crusader Acre." >}}
 {{< image-gallery-item href="aca8991dcdde3e4263631e8dfa96d513_1065.jpeg" data-ngdesc="The Madrasa of Sultan al-Nasir Muhammad: Street-facing facade of the minaret with elaborate stucco decoration and an inscription showing the name and titles of al-Nasir Muhammad." text="The Madrasa of Sultan al-Nasir Muhammad: Street-facing facade of the minaret with elaborate stucco decoration and an inscription showing the name and titles of al-Nasir Muhammad." >}}
 {{< image-gallery-item href="ff0d06ca42040d1d99f6cb205c99453d_1066.jpeg" data-ngdesc="Mihrab in the Prayer Iwan of the Madrasa of Sultan al-Nasir Muhammad, surmounted by an elaborately decorated arch." text="Mihrab in the Prayer Iwan of the Madrasa of Sultan al-Nasir Muhammad, surmounted by an elaborately decorated arch." >}}

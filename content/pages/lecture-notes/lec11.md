@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 title: 11 - The Late Bahri Period (1341-82)
 uid: b156daf5-5ea0-56ee-477f-0568f6d4912e
@@ -20,7 +24,7 @@ uid: b156daf5-5ea0-56ee-477f-0568f6d4912e
 **The Qubba al-Sultaniyya:** (1360s) A double-domed, double shell, royal structure of an unknown patron, this qubba shows how Central Asian and Anatolian influences (bulbous domes, carved mihrab, double shells) were adapted into the Cairene architectural vocabulary.
 
 **Monuments**
-{{< image-gallery id="b156daf5-5ea0-56ee-477f-0568f6d4912e_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-615-the-architecture-of-cairo-spring-2002/" >}}
+{{< image-gallery id="b156daf5-5ea0-56ee-477f-0568f6d4912e_nanogallery2" baseUrl="/courses/4-615-the-architecture-of-cairo-spring-2002/" >}}
 {{< image-gallery-item href="3d428c8e1c514ffc2bb5668532d50275_1079.jpeg" data-ngdesc="The Madrasa of Sultan al-Nasir Muhammad: The Gothic Portal of the Madrasa, which was taken from a church in Crusader Acre." text="The Madrasa of Sultan al-Nasir Muhammad: The Gothic Portal of the Madrasa, which was taken from a church in Crusader Acre." >}}
 {{< image-gallery-item href="6592239fc8740828dee96019a2b62ea2_1080.jpeg" data-ngdesc="The Madrasa of Amir Sarghatmish." text="The Madrasa of Amir Sarghatmish." >}}
 {{< image-gallery-item href="3d9e47f8a50385068420a57f55541aca_1081.jpeg" data-ngdesc="The Madrasa of Amir Sarghatmish." text="The Madrasa of Amir Sarghatmish." >}}

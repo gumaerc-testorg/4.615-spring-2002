@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 title: 9 - Early Mamluk Period (1250-90)
 uid: 95b1c19c-5543-1417-3714-2bd40a32bc4d
@@ -23,7 +27,7 @@ uid: 95b1c19c-5543-1417-3714-2bd40a32bc4d
 **The Khanqah of Sultan Baybars al-Jashankir:** (1307-10) A structure with a biaxial plan, this khanqah had a mausoleum added on its qibla side. It contains roomsfor the sufis aligned on its two longitudinal sides.
 
 **Monuments**
-{{< image-gallery id="95b1c19c-5543-1417-3714-2bd40a32bc4d_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-615-the-architecture-of-cairo-spring-2002/" >}}
+{{< image-gallery id="95b1c19c-5543-1417-3714-2bd40a32bc4d_nanogallery2" baseUrl="/courses/4-615-the-architecture-of-cairo-spring-2002/" >}}
 {{< image-gallery-item href="ca5255b795e5293e8f5cdf059dc4c258_1056.gif" data-ngdesc="Typical Rank of a cupbearer (Saqi) of the early Mamluk Bahri period." text="Typical Rank of a cupbearer (Saqi) of the early Mamluk Bahri period." >}}
 {{< image-gallery-item href="78a40d06bbf004ceab8044ef10788d16_1057.gif" data-ngdesc="The western portal of the Mosque of Sultan al-Zahir Baybars." text="The western portal of the Mosque of Sultan al-Zahir Baybars." >}}
 {{< image-gallery-item href="720c2298f1ee74335d6186a19f6d33a9_1058.jpeg" data-ngdesc="Facade of the complex of Sultan Qalawun on the Bayn al-Qasryn Street." text="Facade of the complex of Sultan Qalawun on the Bayn al-Qasryn Street." >}}

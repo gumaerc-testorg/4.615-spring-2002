@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 title: 12 - The Development of Residential Architecture in Bahri Cairo
 uid: 2bf4e669-6ae9-c543-d60e-6c19a85bfd60
@@ -32,7 +36,7 @@ uid: 2bf4e669-6ae9-c543-d60e-6c19a85bfd60
 **The Qa&grave;a of Muhib al-Din:** (1350) A rare example of a merchant dwelling off the central artery (the old Fatimid avenue) in al-Qahira. 
 
 **Monuments**
-{{< image-gallery id="2bf4e669-6ae9-c543-d60e-6c19a85bfd60_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-615-the-architecture-of-cairo-spring-2002/" >}}
+{{< image-gallery id="2bf4e669-6ae9-c543-d60e-6c19a85bfd60_nanogallery2" baseUrl="/courses/4-615-the-architecture-of-cairo-spring-2002/" >}}
 {{< image-gallery-item href="b4858a0ee1e7e0f53970f03e7f24045e_1089.jpeg" data-ngdesc="The Qa&grave;a of Muhib al-Din." text="The Qa&grave;a of Muhib al-Din." >}}
 {{< image-gallery-item href="3a83586dd2de4974038c414f31b86022_1090.jpeg" data-ngdesc="The Qa&grave;a of Muhib al-Din." text="The Qa&grave;a of Muhib al-Din." >}}
 {{< image-gallery-item href="186f3dfea1ac35d6bfd855ec31a90939_1091.jpeg" data-ngdesc="The Qa&grave;a of Muhib al-Din." text="The Qa&grave;a of Muhib al-Din." >}}

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 title: 15 - Ottoman Architecture in Cairo - The Age of the Governors
 uid: 85810f8f-d580-df2c-fd8b-937630c1a2b6
@@ -28,7 +32,7 @@ Concepts**
 **The Mosque of Shaykh al-Burdayni:** (1616-29) This little mosque was sponsored by an Egyptian faqih. This may explain its Mamluk pastiche style, especially its revivalist minaret. The mosque's facade shows another way to adapt to the urban environment: it curves with the bent street line.
 
 **Monuments**
-{{< image-gallery id="85810f8f-d580-df2c-fd8b-937630c1a2b6_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-615-the-architecture-of-cairo-spring-2002/" >}}
+{{< image-gallery id="85810f8f-d580-df2c-fd8b-937630c1a2b6_nanogallery2" baseUrl="/courses/4-615-the-architecture-of-cairo-spring-2002/" >}}
 {{< image-gallery-item href="eabfaf0ecad8a8fe32f29755df8b5038_1133.jpeg" data-ngdesc="General view of the Mosque of Suleiman Pasha al-Khadim with its distinctive minaret." text="General view of the Mosque of Suleiman Pasha al-Khadim with its distinctive minaret." >}}
 {{< image-gallery-item href="ad7e89650cb0b31c5977e0ac82a29c28_1134.jpeg" data-ngdesc="Mosque of Suleiman Pasha al-Khadim: Massing of the mosques volumes." text="Mosque of Suleiman Pasha al-Khadim: Massing of the mosques volumes." >}}
 {{< image-gallery-item href="6512a87600cb851da0b5de7a075ab124_1134b.jpeg" data-ngdesc="View of a portico inside the Mosque of Mahmud Pasha." text="View of a portico inside the Mosque of Mahmud Pasha." >}}

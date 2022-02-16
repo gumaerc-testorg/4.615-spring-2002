@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 title: 5 - Fatimid Mosques in Cairo
 uid: 72c5f5ed-463b-d382-8971-1de94bece98b
@@ -48,7 +52,7 @@ uid: 72c5f5ed-463b-d382-8971-1de94bece98b
 **The Mosque of al-Lu'lu'a:** (1015-16) One of many small mosques on the Muqattam cliff attributed to al-Hakim.
 
 **Monuments**
-{{< image-gallery id="72c5f5ed-463b-d382-8971-1de94bece98b_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-615-the-architecture-of-cairo-spring-2002/" >}}
+{{< image-gallery id="72c5f5ed-463b-d382-8971-1de94bece98b_nanogallery2" baseUrl="/courses/4-615-the-architecture-of-cairo-spring-2002/" >}}
 {{< image-gallery-item href="20ab02c3b663d9c96f7209664b29669f_1019.jpeg" data-ngdesc="Al-Azhar Mosque: Main facade of the mosque from Northwest with the three Mamluk minarets of Aqbugha, Qaytbay, and the double-headed minaret of al-Ghuri from (L to R)." text="Al-Azhar Mosque: Main facade of the mosque from Northwest with the three Mamluk minarets of Aqbugha, Qaytbay, and the double-headed minaret of al-Ghuri from (L to R)." >}}
 {{< image-gallery-item href="9c670b16809bbe5a99e78841cb866744_1020.jpeg" data-ngdesc="Al-Azhar Mosque: View of the Northwest portico of the mosque with the three minarets in the background." text="Al-Azhar Mosque: View of the Northwest portico of the mosque with the three minarets in the background." >}}
 {{< image-gallery-item href="fc9131083faff099c3357ea9c8dbad3f_1021.gif" data-ngdesc="Al-Azhar Mosque: Bab al-Muzayinin (Barbers) built by &grave;Abd al-Rahman Kaytkhuda dated 1753." text="Al-Azhar Mosque: Bab al-Muzayinin (Barbers) built by &grave;Abd al-Rahman Kaytkhuda dated 1753." >}}

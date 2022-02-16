@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 title: 20 - Historicism in Twentieth-Century Cairo
 uid: 71b15993-bc9b-fa4b-56b4-59c2132c770a
@@ -22,7 +26,7 @@ Concepts**
 **&grave;Abd al-Halim Ibrahim &grave;Abd al-Halim:** A prominent Egyptian historicits architect who deconstructs historical forms and reuses them in new abstract compositions.
 
 **Monuments**
-{{< image-gallery id="71b15993-bc9b-fa4b-56b4-59c2132c770a_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-615-the-architecture-of-cairo-spring-2002/" >}}
+{{< image-gallery id="71b15993-bc9b-fa4b-56b4-59c2132c770a_nanogallery2" baseUrl="/courses/4-615-the-architecture-of-cairo-spring-2002/" >}}
 {{< image-gallery-item href="a33aa6231cac36276a9e0ec58671ce27_1184.gif" data-ngdesc="General view of Fuad Riyad house, Saqqara Road, Giza, Egypt (1967)." text="General view of Fuad Riyad house, Saqqara Road, Giza, Egypt (1967)." >}}
 {{< image-gallery-item href="4c1bfbd35095f3cb2b890f0078ba4c53_1185.gif" data-ngdesc="Riad House: Exterior view of the dome." text="Riad House: Exterior view of the dome." >}}
 {{< image-gallery-item href="9e8ef1e66931a7dc10cc50a751a836b8_1186.gif" data-ngdesc="Riad House: Interior view of the dome showing the construction technique." text="Riad House: Interior view of the dome showing the construction technique." >}}

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 0fb63345-05fd-5eac-43e7-f2ef16d89e4b
 ---
@@ -40,7 +42,7 @@ Hellenism.
 Christianity and the Copts.  
 The coming of Islam: Arabia and Egypt.
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Behrens-Abouseif, Doris. _Islamic Architecture of Cairo: An Introduction._ Leiden: Brill, 1989, pp. 3-34 and 47-57.  
   
 Raymond, Andre. _Cairo._ Cambridge, Mass.: Harvard University Press, 2000, pp. 7-30.  
@@ -121,7 +123,7 @@ REQUIRED READINGS
 The Mosque at the Citadel.  
 The Westernization of the palatial architecture.
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Behrens-Abouseif, Doris. _Islamic Architecture of Cairo: An Introduction._ Leiden: Brill, 1989, pp. 167-70.  
   
 Abu-Lughod, Janet. _Cairo: 1001 Years of the City Victorious_. Princeton, 1971, pp. 83-117.  

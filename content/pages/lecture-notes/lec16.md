@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 title: 16 - Ottoman Architecture in Cairo - The Age of the Mamluk Beys
 uid: 0b87451c-dea9-c903-5f4f-cde08cbd0a92
@@ -32,7 +36,7 @@ Concepts**
 **The Sinnari House:** (1798) The house of a Mamluk amir which was confiscated by Napoleon and turned into the French Institute. It is a typical Cairene Ottoman house with a maq&grave;ad, a qa&grave;a for men, and a haramlik with a major qa&grave;a.
 
 **Monuments**
-{{< image-gallery id="0b87451c-dea9-c903-5f4f-cde08cbd0a92_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-615-the-architecture-of-cairo-spring-2002/" >}}
+{{< image-gallery id="0b87451c-dea9-c903-5f4f-cde08cbd0a92_nanogallery2" baseUrl="/courses/4-615-the-architecture-of-cairo-spring-2002/" >}}
 {{< image-gallery-item href="b4a05a4c5d8b96767d2643c0b5a3ffdc_1140.jpeg" data-ngdesc="Facade of the Zawiya." text="Facade of the Zawiya." >}}
 {{< image-gallery-item href="ed86fb060bf6852737a9a2e93e62b15a_1141.jpeg" data-ngdesc="Stonework detail of the portal of the Zawiya." text="Stonework detail of the portal of the Zawiya." >}}
 {{< image-gallery-item href="7f6ba7c21a43e64bd83714903679471a_1142.jpeg" data-ngdesc="View of the Sabil-Khuttab." text="View of the Sabil-Khuttab." >}}

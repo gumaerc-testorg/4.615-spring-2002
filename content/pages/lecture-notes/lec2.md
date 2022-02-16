@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 title: 2 - Foundation of al-Fustat
 uid: 34dbbe95-cfee-00a5-f7ad-c5faec1a1370
@@ -29,7 +33,7 @@ uid: 34dbbe95-cfee-00a5-f7ad-c5faec1a1370
 
   
 **Monuments**
-{{< image-gallery id="34dbbe95-cfee-00a5-f7ad-c5faec1a1370_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-615-the-architecture-of-cairo-spring-2002/" >}}
+{{< image-gallery id="34dbbe95-cfee-00a5-f7ad-c5faec1a1370_nanogallery2" baseUrl="/courses/4-615-the-architecture-of-cairo-spring-2002/" >}}
 {{< image-gallery-item href="61ac01e0372689a7f89821ca1385ae8e_1001.jpg" data-ngdesc="" text="View of the prayer hall of the Mosque of Amru in Fustat." >}}
 {{< image-gallery-item href="3612cdec2b7611835e669ababd2c516d_1002.jpeg" data-ngdesc="Hypostyle Hall of the Mosque of the Umayyad, Damascus." text="Hypostyle Hall of the Mosque of the Umayyad, Damascus." >}}
 {{< image-gallery-item href="c0ce6028743ad1ad9a40c9d876b76e0c_1003.jpeg" data-ngdesc="Mihrab of the Mosque of Sultan Hasan in Cairo." text="Mihrab of the Mosque of Sultan Hasan in Cairo." >}}

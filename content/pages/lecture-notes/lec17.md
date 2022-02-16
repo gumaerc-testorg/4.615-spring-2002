@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 title: 17 - Cairo From Napoleon to Muhammad `Ali
 uid: a3226049-57a9-702d-0b60-f89c75e93c2b
@@ -28,7 +32,7 @@ Concepts**
 **The Mosque of Suleiman Agha al-Silahdar:** (1837-39) Built by this trusted lieutenant of Muhammad 'Ali on the main street of Cairo, this elegant mosque displays the same mixture of Baroque Ottoman and local Cairene styles as the mosque of the Pasha at the Citadel.
 
 **Monuments**
-{{< image-gallery id="a3226049-57a9-702d-0b60-f89c75e93c2b_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-615-the-architecture-of-cairo-spring-2002/" >}}
+{{< image-gallery id="a3226049-57a9-702d-0b60-f89c75e93c2b_nanogallery2" baseUrl="/courses/4-615-the-architecture-of-cairo-spring-2002/" >}}
 {{< image-gallery-item href="8a3fbfd8dd613cfa18ce9421137429e8_1154b.gif" data-ngdesc="Cover Page of LArchitecture Arabe ou Monuments du Caire mesures et dessines de 1818 a 1826 ." text="Cover Page of LArchitecture Arabe ou Monuments du Caire mesures et dessines de 1818 a 1826 ." >}}
 {{< image-gallery-item href="09b8067a6ce7e64002c3744826f9b7a7_1155.gif" data-ngdesc="Musafirkhana Palace: view of the courtyard with the main qaa in the background." text="Musafirkhana Palace: view of the courtyard with the main qaa in the background." >}}
 {{< image-gallery-item href="4fbc90a2bb798c9ef5d744c31fb80204_1156.jpeg" data-ngdesc="Musafirkhana Palace: interior view of the main qaa from the durqaa towards the right side iwan." text="Musafirkhana Palace: interior view of the main qaa from the durqaa towards the right side iwan." >}}

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 title: 7 - The Ayyubid Period (1171-1250) - The City and the Citadel
 uid: 6a745240-ada4-c1be-e59a-1f62b1f5a05b
@@ -28,7 +32,7 @@ uid: 6a745240-ada4-c1be-e59a-1f62b1f5a05b
 **Dar al-&grave;Adl:** The palace of justice, an institutional building that appeared under the Ayyubids and was used by the sultans and their deputies to publicly judge petitions submitted by subjects. The Cairo Citadel had a Dar al-&grave;Adl that was rebuilt at least four times and was called The Great Iwan.
 
 **Monuments**
-{{< image-gallery id="6a745240-ada4-c1be-e59a-1f62b1f5a05b_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-615-the-architecture-of-cairo-spring-2002/" >}}
+{{< image-gallery id="6a745240-ada4-c1be-e59a-1f62b1f5a05b_nanogallery2" baseUrl="/courses/4-615-the-architecture-of-cairo-spring-2002/" >}}
 {{< image-gallery-item href="20326af5caabfa4861630038243625f2_1046.gif" data-ngdesc="The general view the citadel of Aleppo." text="The general view the citadel of Aleppo." >}}
 {{< image-gallery-item href="02641fa0e2db8a34269eb1b558b9c632_1047.gif" data-ngdesc="The general view of the citadel of Cairo." text="The general view of the citadel of Cairo." >}}
 {{< image-gallery-item href="f165c0f2816ee3fef54f3342015c933d_1048.gif" data-ngdesc="Detail of the fortification of the northern enclosure of the citadel." text="Detail of the fortification of the northern enclosure of the citadel." >}}
