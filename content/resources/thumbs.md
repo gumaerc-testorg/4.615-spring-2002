@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 resourcetype: Other
 title: Thumbs.db
 uid: 67f676e1-2d07-a8cb-147a-dcb3375adfa0
