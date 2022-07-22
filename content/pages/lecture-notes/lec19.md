@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 title: 19 - Competing Neo Styles in the Early Twentieth Century
 uid: cff8aa1d-00cc-c349-7ca6-b20c9f80e701
@@ -36,7 +40,7 @@ Concepts**
 **The Palace of Baron Empain, Heliopolis:** Built by the French architect Alexandre Marcel as an eclectic Hindu palace in an Islamic capital (completed in 1905).
 
 **Monuments**
-{{< image-gallery id="cff8aa1d-00cc-c349-7ca6-b20c9f80e701_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-615-the-architecture-of-cairo-spring-2002/" >}}
+{{< image-gallery id="cff8aa1d-00cc-c349-7ca6-b20c9f80e701_nanogallery2" baseUrl="/courses/4-615-the-architecture-of-cairo-spring-2002/" >}}
 {{< image-gallery-item href="0e9c6955af3b560ad119d3acd2e2cd6f_1173.jpeg" data-ngdesc="Side view of the Sabil-Kuttab." text="Side view of the Sabil-Kuttab." >}}
 {{< image-gallery-item href="787bc73c7306fdd2d839bb9c32e9dfdf_1174.gif" data-ngdesc="Main facade of the Dar al-Kutub." text="Main facade of the Dar al-Kutub." >}}
 {{< image-gallery-item href="6d209dcef90f0c857b6108b57975cb30_1175.jpeg" data-ngdesc="Side facade of the Awqaf Ministry Building." text="Side facade of the Awqaf Ministry Building." >}}

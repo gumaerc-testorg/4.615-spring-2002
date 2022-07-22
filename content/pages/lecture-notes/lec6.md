@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 title: 6 - Late Fatimid Period (1074-1171)
 uid: 7f1ee496-c3e9-b054-2bfa-d8c7549f993a
@@ -36,7 +40,7 @@ uid: 7f1ee496-c3e9-b054-2bfa-d8c7549f993a
 **Muqarnas:** One of the most distinctive architectural elements, called usually the stalacite pendentives or honeycomb vaults. Muqarnas units appear in domes' transitional zones, in cornices and friezes, in conches above entrances, and on friezes supporting balconies of [minarets]({{< baseurl >}}/pages/related-resources/glossary#minaret). The origin and date of first appearance of muqarnas are not clear. It is used for decorative purposes and several symbolic meanings have been proposed for it. 
 
 **Monuments**
-{{< image-gallery id="7f1ee496-c3e9-b054-2bfa-d8c7549f993a_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-615-the-architecture-of-cairo-spring-2002/" >}}
+{{< image-gallery id="7f1ee496-c3e9-b054-2bfa-d8c7549f993a_nanogallery2" baseUrl="/courses/4-615-the-architecture-of-cairo-spring-2002/" >}}
 {{< image-gallery-item href="45a2470b3c17ace5593ac6b73fbc90fa_1032.gif" data-ngdesc="Bab Zuwayla with the two minarets of al-Muayyad." text="Bab Zuwayla with the two minarets of al-Muayyad." >}}
 {{< image-gallery-item href="3492907b4c37adf5227da6e3e76f33e3_1033.jpeg" data-ngdesc="General view of Mashhad al-Juyyushi on top of the Muqattam before restoration." text="General view of Mashhad al-Juyyushi on top of the Muqattam before restoration." >}}
 {{< image-gallery-item href="d1a5716610dbead4aa3b9be327d1c970_1034.gif" data-ngdesc="General view of the Mashhad al-Juyyushi after restoration." text="General view of the Mashhad al-Juyyushi after restoration." >}}

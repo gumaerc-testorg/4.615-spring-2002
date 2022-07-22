@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 title: 18 - The Modernization of Cairo
 uid: da2df894-b53c-07ef-4214-59245f03509f
@@ -24,7 +28,7 @@ Concepts**
 **The Mosque of al-Rifa&grave;i:** Begun in 1869 by order of Khochiar, the mother of Khedive Isma&grave;il, and designed in a neo-Mamluk style by an Egyptian architect, Hussein Fahmi. The mosque was left unfinished until 1906 when the Austrian Max Herz Bey, the famous restorer of Islamic monuments in Cairo, was commissioned to complete it. It stands opposite the grand mosque of Sultan Hasan as an attempt of the Khedival family to measure up to the achievements of the Mamluk sultans of Egypt.
 
 **Monuments**
-{{< image-gallery id="da2df894-b53c-07ef-4214-59245f03509f_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-615-the-architecture-of-cairo-spring-2002/" >}}
+{{< image-gallery id="da2df894-b53c-07ef-4214-59245f03509f_nanogallery2" baseUrl="/courses/4-615-the-architecture-of-cairo-spring-2002/" >}}
 {{< image-gallery-item href="9fb91574da8b24f409b730c6bcf4bccf_1166.gif" data-ngdesc="One of the cast iron porticos designed for the Gazira Palace in Neo-Moorish style by the German architect Karl von Dibitsch." text="One of the cast iron porticos designed for the Gazira Palace in Neo-Moorish style by the German architect Karl von Dibitsch." >}}
 {{< image-gallery-item href="656a9a8b80501eb7f602f57e47774d3f_1167.jpeg" data-ngdesc="Detail of the cast-iron portico of the Gazira Palace." text="Detail of the cast-iron portico of the Gazira Palace." >}}
 {{< image-gallery-item href="420914de91d42ad1d004930864a511dd_1168.jpeg" data-ngdesc="General view of the Mosque of Sultan Hasan (on the left) and the Mosque of al-Rifai." text="General view of the Mosque of Sultan Hasan (on the left) and the Mosque of al-Rifai." >}}

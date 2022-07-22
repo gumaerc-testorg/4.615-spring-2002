@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 title: 13 - Burji Mamluk Architecture in the City
 uid: f92bbf26-4b94-d2ce-3a1c-ae00792606dd
@@ -29,7 +33,7 @@ Concepts**
    
    
 **Monuments**
-{{< image-gallery id="f92bbf26-4b94-d2ce-3a1c-ae00792606dd_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-615-the-architecture-of-cairo-spring-2002/" >}}
+{{< image-gallery id="f92bbf26-4b94-d2ce-3a1c-ae00792606dd_nanogallery2" baseUrl="/courses/4-615-the-architecture-of-cairo-spring-2002/" >}}
 {{< image-gallery-item href="93d9948b8f560ae5f5a8a507d80f980b_1093.jpeg" data-ngdesc="Facade of the Complex of Barquq." text="Facade of the Complex of Barquq." >}}
 {{< image-gallery-item href="93ce7881459437490aecb09946fe30ad_1094.jpeg" data-ngdesc="Minaret of the Complex of Sultan Barquq." text="Minaret of the Complex of Sultan Barquq." >}}
 {{< image-gallery-item href="41b3bf6865e92344d89088c14549f3e9_1095.jpeg" data-ngdesc="Main portal of the Complex of Sultan Barquq with marble decoration." text="Main portal of the Complex of Sultan Barquq with marble decoration." >}}

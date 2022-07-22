@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 title: 4 - The Foundation of Fatimid al-Qahira
 uid: a8fa7a80-0a9d-1df1-7321-94e3b9cef602
@@ -43,7 +47,7 @@ The Great Mosque of Mahdiyya, Tunisia: (ca. 920) Built in the Fatimid new capita
     
 
 **Monuments**
-{{< image-gallery id="a8fa7a80-0a9d-1df1-7321-94e3b9cef602_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-615-the-architecture-of-cairo-spring-2002/" >}}
+{{< image-gallery id="a8fa7a80-0a9d-1df1-7321-94e3b9cef602_nanogallery2" baseUrl="/courses/4-615-the-architecture-of-cairo-spring-2002/" >}}
 {{< image-gallery-item href="0f5c6190614427a1d71cea317f8d59fa_1013a.jpg" data-ngdesc="Plan of the Fatimid City with the two palaces and Khitat (after Ravaisse)." text="Plan of the Fatimid City with the two palaces and Khitat (after Ravaisse)." >}}
 {{< image-gallery-item href="f6afc004f4f31bf68d0003fab4afa729_1013.jpeg" data-ngdesc="Shadirwan or Salsabil: A slanted, pebbled or chevroned slab on the wall upon whose surface the water gurgles down to a channel whence it is collected in a central fountain." text="Shadirwan or Salsabil: A slanted, pebbled or chevroned slab on the wall upon whose surface the water gurgles down to a channel whence it is collected in a central fountain." >}}
 {{< image-gallery-item href="ada3a6a6734302f5b2aabc86c4216f20_1014.jpeg" data-ngdesc="A double-arched window from the Western Palace incorporated into the Bimaristan of al-Mansur Qalawun." text="A double-arched window from the Western Palace incorporated into the Bimaristan of al-Mansur Qalawun." >}}

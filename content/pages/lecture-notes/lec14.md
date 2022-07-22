@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 title: 14 - Burji Mamluk Architecture in the Northern Qarafa
 uid: cbe17a06-a5a9-dd1a-1dce-3b41876bd2ea
@@ -24,7 +28,7 @@ Concepts**
 **The Funerary-Religious Complex of Sultan Qaytbay:** (1472-74) Perhaps the most beautiful monument of Mamluk Cairo, this complex has a qa&grave;a-type mosque, a madrasa, a mausoleum, and a sabil-kuttab. It was part of a large complex enclosed by a wall of which a rab&grave;, a drinking trough for animals, a saqiya (water-wheel), and a maq&grave;adwhich formed part of a large residence, still stand. The 3-tiered minaret and the carved stone dome with two two superimposed designs are the most accomplished examples of the Burji period.
 
 **Monuments**
-{{< image-gallery id="cbe17a06-a5a9-dd1a-1dce-3b41876bd2ea_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-615-the-architecture-of-cairo-spring-2002/" >}}
+{{< image-gallery id="cbe17a06-a5a9-dd1a-1dce-3b41876bd2ea_nanogallery2" baseUrl="/courses/4-615-the-architecture-of-cairo-spring-2002/" >}}
 {{< image-gallery-item href="da6d0b6397f5e455d8895c55cb9755c0_1118.jpeg" data-ngdesc="The Qubba of Yunus al-Dawadar. Compare with The Ghur-i Amir in Samarqand (Tomb of Tamerlane, 1404)." text="The Qubba of Yunus al-Dawadar. Compare with The Ghur-i Amir in Samarqand (Tomb of Tamerlane, 1404)." >}}
 {{< image-gallery-item href="3054f77f9f6a8cd6b738064c3b5efccd_1119.jpeg" data-ngdesc="The Khanqah of Sultan Faraj ibn Barquq: detail of the dome." text="The Khanqah of Sultan Faraj ibn Barquq: detail of the dome." >}}
 {{< image-gallery-item href="17a40cdfab2da9c3be03d0f96349ef32_1120.jpeg" data-ngdesc="The Khanqah of Sultan Faraj ibn Barquq: interior detail of the dome." text="The Khanqah of Sultan Faraj ibn Barquq: interior detail of the dome." >}}

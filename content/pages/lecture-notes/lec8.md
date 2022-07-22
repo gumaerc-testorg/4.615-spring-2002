@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 title: 8 - Transforming the Religious Landscape of Cairo in the Ayyubid Period
 uid: 37414c02-2ec9-1fd5-2f6f-95d5fbba9af0
@@ -27,7 +31,7 @@ uid: 37414c02-2ec9-1fd5-2f6f-95d5fbba9af0
 **The Iwan of al-Salih at the Roda Citadel:** Documented in the early nineteenth century, it comprised two iwans facing one another across a huge durqa&grave;a. Four sets of columns formed a smaller rectangle inside the durqa&grave;a which may have supported a dome. This plan may have formed a transitional stage between the majlis plan in Fustat houses, and the later qa&grave;as of the Bahri Mamluk period.
 
 **Monuments**
-{{< image-gallery id="37414c02-2ec9-1fd5-2f6f-95d5fbba9af0_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-615-the-architecture-of-cairo-spring-2002/" >}}
+{{< image-gallery id="37414c02-2ec9-1fd5-2f6f-95d5fbba9af0_nanogallery2" baseUrl="/courses/4-615-the-architecture-of-cairo-spring-2002/" >}}
 {{< image-gallery-item href="dbafe5467955de64d23eab26cb221f6b_1050.jpeg" data-ngdesc="The Qubba of Imam al-Shafii: general view." text="The Qubba of Imam al-Shafii: general view." >}}
 {{< image-gallery-item href="09ba11ce511ef506d9bdbf30b8a56e8e_1051.jpeg" data-ngdesc="The Qubba of Imam al-Shafii: Dome with model boat at the finial." text="The Qubba of Imam al-Shafii: Dome with model boat at the finial." >}}
 {{< image-gallery-item href="ddab2b265b80dc322409f829415cc14e_1052.jpeg" data-ngdesc="The Qubba of Imam al-Shafii: Mihrab." text="The Qubba of Imam al-Shafii: Mihrab." >}}

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 6903e2f5-731a-0bfe-a3b8-4ff0493b836b
 title: 3 - Abbasids and Tulunids (8th and 9th Century)
 uid: d3cb20c3-ca01-85b1-b4ef-52cc28e51a26
@@ -26,7 +30,7 @@ uid: d3cb20c3-ca01-85b1-b4ef-52cc28e51a26
 **The Mosque of Ibn-Tulun:** The furthest westerly evidence of the spread of the Abbasid imperial style in its decoration, its construction material, and its [minaret]({{< baseurl >}}/pages/related-resources/glossary#minaret), this mosque is perhaps the most serene structure in Cairo. It is distinguished by its brick piers with four engaged brick columns on the four sides (a combination of eastern and western influences), its angularly spiraling minaret, and its ziyadas, or open extensions which ring it on three sides and work as buffers between the streets' bustle and the religious space inside. 
 
 **Monuments**
-{{< image-gallery id="d3cb20c3-ca01-85b1-b4ef-52cc28e51a26_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-615-the-architecture-of-cairo-spring-2002/" >}}
+{{< image-gallery id="d3cb20c3-ca01-85b1-b4ef-52cc28e51a26_nanogallery2" baseUrl="/courses/4-615-the-architecture-of-cairo-spring-2002/" >}}
 {{< image-gallery-item href="961e69e3ef4c58a9e2dc01ccc021ddce_1007.jpeg" data-ngdesc="General view of al- Mutawakkil mosque with the Malwiyya minaret. Founded by caliph al-Mutawakkil (847-61). It is the largest mosque in Islam (240 by 156 m). The Malwiyya: the famous spiralling, free-standing minaret of the Great Mosque of Samarra. It is usually compared to Mesopotamian Ziggurats." text="General view of al- Mutawakkil mosque with the Malwiyya minaret. Founded by caliph al-Mutawakkil (847-61). It is the largest mosque in Islam (240 by 156 m). The Malwiyya: the famous spiralling, free-standing minaret of the Great Mosque of Samarra. It is usually compared to Mesopotamian Ziggurats." >}}
 {{< image-gallery-item href="93efc00c39f9e5148fcec1300b3c067c_1008.jpeg" data-ngdesc="General view of the mosque of Ibn-Tulun from the North-East. The furthest westerly evidence of the spread of the Abbasid imperial style in its decoration, its construction material, and its minaret, this mosque is perhaps the most serene structure in Cairo. It is distinguished by its brick piers with four engaged brick columns on the four sides (a combination of eastern and western influences), its angularly spiralling minaret, and its ziyadas, or open extensions which ring it on three sides and work as buffers between the streets bustle and the religious space inside." text="General view of the mosque of Ibn-Tulun from the North-East. The furthest westerly evidence of the spread of the Abbasid imperial style in its decoration, its construction material, and its minaret, this mosque is perhaps the most serene structure in Cairo. It is distinguished by its brick piers with four engaged brick columns on the four sides (a combination of eastern and western influences), its angularly spiralling minaret, and its ziyadas, or open extensions which ring it on three sides and work as buffers between the streets bustle and the religious space inside." >}}
 {{< image-gallery-item href="b894b7f74fc273c1c1f8d2b067a43ea0_1009.jpeg" data-ngdesc="The mosque of Ibn-Tulun: View of the mosque courtyard with 13th century fountain dome in the center." text="The mosque of Ibn-Tulun: View of the mosque courtyard with 13th century fountain dome in the center." >}}
