@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ title: 20 - Historicism in Twentieth-Century Cairo
 uid: 71b15993-bc9b-fa4b-56b4-59c2132c770a
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/lec19)  
+{{% resource_link cff8aa1d-00cc-c349-7ca6-b20c9f80e701 "Previous Lecture" %}}  
 
 **  
 Concepts**

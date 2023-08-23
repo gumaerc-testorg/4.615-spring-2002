@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains credit information for the images used in the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Image Credits

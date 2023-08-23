@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ title: 15 - Ottoman Architecture in Cairo - The Age of the Governors
 uid: 85810f8f-d580-df2c-fd8b-937630c1a2b6
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/lec14) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/lec16)
+{{% resource_link cbe17a06-a5a9-dd1a-1dce-3b41876bd2ea "Previous Lecture" %}} | {{% resource_link 0b87451c-dea9-c903-5f4f-cde08cbd0a92 "Next Lecture" %}}
 
 **  
 Concepts**

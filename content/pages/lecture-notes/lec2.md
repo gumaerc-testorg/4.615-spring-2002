@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,12 +11,12 @@ title: 2 - Foundation of al-Fustat
 uid: 34dbbe95-cfee-00a5-f7ad-c5faec1a1370
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/ch1-1) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/lec3)
+{{% resource_link 54901b2a-0ed6-c955-23a6-3a73aa1550b1 "Previous Lecture" %}} | {{% resource_link d3cb20c3-ca01-85b1-b4ef-52cc28e51a26 "Next Lecture" %}}
 
   
 **Concepts**
 
-**Quraysh:** The tribe of the Prophet and inhabitants of [Mecca]({{< baseurl >}}/pages/related-resources/glossary#Mecca) who controlled the Ka&grave;ba and the lucrative north-south trade between Yemen and the Byzantine empire.  
+**Quraysh:** The tribe of the Prophet and inhabitants of {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "Mecca" "#Mecca" %}} who controlled the Ka&grave;ba and the lucrative north-south trade between Yemen and the Byzantine empire.  
        
 **&grave;Ali:** Cousin of the Prophet and second Muslim. He later became Muhammad's son-in-law and fourth successor (caliph).  
    
@@ -27,7 +28,7 @@ uid: 34dbbe95-cfee-00a5-f7ad-c5faec1a1370
        
 **Fustat:** The first capital of Islamic Egypt established in 642 by &grave;Amru to the south, east, and north of Babylon and probably named after the Roman military term fossatum, or encampment.  
    
-**Khitta:** A parcel of land in a [Misr]({{< baseurl >}}/pages/related-resources/glossary#Misr) given to a group from the various tribes that constituted the Islamic army to build their dwellings on.
+**Khitta:** A parcel of land in a {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "Misr" "#Misr" %}} given to a group from the various tribes that constituted the Islamic army to build their dwellings on.
 
 **Qibla:** The direction of Mecca toward which Muslims are required to face when they pray.
 

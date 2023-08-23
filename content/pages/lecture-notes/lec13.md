@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ title: 13 - Burji Mamluk Architecture in the City
 uid: f92bbf26-4b94-d2ce-3a1c-ae00792606dd
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/lec12) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/lec14)
+{{% resource_link 2bf4e669-6ae9-c543-d60e-6c19a85bfd60 "Previous Lecture" %}} | {{% resource_link cbe17a06-a5a9-dd1a-1dce-3b41876bd2ea "Next Lecture" %}}
 
 **  
 Concepts**

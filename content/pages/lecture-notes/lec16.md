@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: http://ocwcms.mit.edu/courses/architecture/4-615-the-architecture-of-cairo-spring-2002/lecture-notes/lec16/#fieldsetlegend-settings
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ title: 16 - Ottoman Architecture in Cairo - The Age of the Mamluk Beys
 uid: 0b87451c-dea9-c903-5f4f-cde08cbd0a92
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/lec15) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/lec17)
+{{% resource_link 85810f8f-d580-df2c-fd8b-937630c1a2b6 "Previous Lecture" %}} | {{% resource_link a3226049-57a9-702d-0b60-f89c75e93c2b "Next Lecture" %}}
 
 **  
 Concepts**
