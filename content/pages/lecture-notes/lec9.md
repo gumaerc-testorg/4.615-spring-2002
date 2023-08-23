@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ title: 9 - Early Mamluk Period (1250-90)
 uid: 95b1c19c-5543-1417-3714-2bd40a32bc4d
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/lec8) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/lec10)
+{{% resource_link 37414c02-2ec9-1fd5-2f6f-95d5fbba9af0 "Previous Lecture" %}} | {{% resource_link b5a5d49b-2169-a890-6fd3-f15eef9cfc0f "Next Lecture" %}}
 
 **Concepts**
 
@@ -22,7 +23,7 @@ uid: 95b1c19c-5543-1417-3714-2bd40a32bc4d
 
 **The Mosque of Sultan al-Zahir Baybars:** (1267-69) First royal Mamluk mosque in Cairo. Hypostyle in plan, and fortress-like in elevation, the mosque with its three portals originally stood alone in a quarter north of the walled city. The mosque displays local and Seljuq influences in its spatial arrangement and its surface articulation.
 
-**The Complex of Sultan Qalawun:** (1284-85) Built on the site of the Western [Fatimid]({{< baseurl >}}/pages/related-resources/glossary#Fatimid) Palace opposite the [madrasas]({{< baseurl >}}/pages/related-resources/glossary#madrasa) of al-Salih najm al-Din Ayyub, this complex contains a bimaristan, a madrasa, and a dome/mausoleum for the founder. The street façade is well articulated and shows the confluence of Syrian (Crusader and Islamic) arrangements. The madrasa is a four-[iwan]({{< baseurl >}}/pages/related-resources/glossary#iwan) type with a basilical organization in the [qibla]({{< baseurl >}}/pages/related-resources/glossary#qibla) iwan. The Dome of the mausoleum echoes the octagonal plan of the Dome of the Rock.
+**The Complex of Sultan Qalawun:** (1284-85) Built on the site of the Western {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "Fatimid" "#Fatimid" %}} Palace opposite the {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "madrasas" "#madrasa" %}} of al-Salih najm al-Din Ayyub, this complex contains a bimaristan, a madrasa, and a dome/mausoleum for the founder. The street façade is well articulated and shows the confluence of Syrian (Crusader and Islamic) arrangements. The madrasa is a four-{{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "iwan" "#iwan" %}} type with a basilical organization in the {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "qibla" "#qibla" %}} iwan. The Dome of the mausoleum echoes the octagonal plan of the Dome of the Rock.
 
 **The Khanqah of Sultan Baybars al-Jashankir:** (1307-10) A structure with a biaxial plan, this khanqah had a mausoleum added on its qibla side. It contains roomsfor the sufis aligned on its two longitudinal sides.
 

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ title: 17 - Cairo From Napoleon to Muhammad `Ali
 uid: a3226049-57a9-702d-0b60-f89c75e93c2b
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/lec16) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/lec18)
+{{% resource_link 0b87451c-dea9-c903-5f4f-cde08cbd0a92 "Previous Lecture" %}} | {{% resource_link da2df894-b53c-07ef-4214-59245f03509f "Next Lecture" %}}
 
 **  
 Concepts**

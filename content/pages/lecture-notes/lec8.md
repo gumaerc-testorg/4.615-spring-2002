@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,17 +11,17 @@ title: 8 - Transforming the Religious Landscape of Cairo in the Ayyubid Period
 uid: 37414c02-2ec9-1fd5-2f6f-95d5fbba9af0
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/lec7) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/lec9)
+{{% resource_link 6a745240-ada4-c1be-e59a-1f62b1f5a05b "Previous Lecture" %}} | {{% resource_link 95b1c19c-5543-1417-3714-2bd40a32bc4d "Next Lecture" %}}
 
 **Concepts**
 
-**The Sunnis:** from sunna (tradition or custom), are those who adhere to the standard practice (understood to be of the Prophet). Sunnis are the majority of Muslims and follow four schools of jurisprudence: the Shafi&grave;i, Hanafi, Maliki, and Hanbali. They accept the legitimacy of both the Umayyads and [Abbasids]({{< baseurl >}}/pages/related-resources/glossary#Abbasid). The Ayyubids vigorously promoted the Sunni revival in Egypt both to satisfy the demand of their power-base and to eradicate the traces of their [Shi&grave;ite]({{< baseurl >}}/pages/related-resources/glossary#shiite) Fatimid predecessors  
+**The Sunnis:** from sunna (tradition or custom), are those who adhere to the standard practice (understood to be of the Prophet). Sunnis are the majority of Muslims and follow four schools of jurisprudence: the Shafi&grave;i, Hanafi, Maliki, and Hanbali. They accept the legitimacy of both the Umayyads and {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "Abbasids" "#Abbasid" %}}. The Ayyubids vigorously promoted the Sunni revival in Egypt both to satisfy the demand of their power-base and to eradicate the traces of their {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "Shi&grave;ite" "#shiite" %}} Fatimid predecessors  
        
 **Madrasa:** An institution of learning that appeared in Khurasan in the 10th c. and spread all over the Islamic world. It was adopted by the Seljuqs to promote higher religious education. Madrasas usually follow an Iwan-based plan and they contain a mosque, classrooms, and lodgings for students and teachers.
 
 **The Qubba of Imam al-Shafi&grave;i:** Built by Sultan al-Kamil in 1211 over the tomb of this most eminent of Sunni jurists and founder of the Shafi&grave;i school of law.
 
-**The [Madrasa]({{< baseurl >}}/pages/related-resources/glossary#Madrasa) of Sultan al-Kamil:** Built by Sultan al-Kamil in 1225 in the northern section of the Fatimid Western Palace, it comprised two [iwans]({{< baseurl >}}/pages/related-resources/glossary#iwan) and probably some students cells.
+**The {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "Madrasa" "#Madrasa" %}} of Sultan al-Kamil:** Built by Sultan al-Kamil in 1225 in the northern section of the Fatimid Western Palace, it comprised two {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "iwans" "#iwan" %}} and probably some students cells.
 
 **The Madrasas of Sultan al-Salih Najm al-Din Ayyub:** (1243) First madrasa in Cairo to accommodate the four schools of law. Built in the heart of the Fatimid city, it was composed of two separate, self-contained courtyard units, parallel in plan, separated by a passage, and having each two large iwans . Maqrizi calls them the two madrasas, and specifies that each iwan was allotted to one of the four school of Sunni jurisprudence. A mausoleum for the founder was added shortly after the completion of the complex by Shajar al-Durr, his wife.
 

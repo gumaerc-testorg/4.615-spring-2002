@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ title: 14 - Burji Mamluk Architecture in the Northern Qarafa
 uid: cbe17a06-a5a9-dd1a-1dce-3b41876bd2ea
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/lec13) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/lec15)
+{{% resource_link f92bbf26-4b94-d2ce-3a1c-ae00792606dd "Previous Lecture" %}} | {{% resource_link 85810f8f-d580-df2c-fd8b-937630c1a2b6 "Next Lecture" %}}
 
 **  
 Concepts**
