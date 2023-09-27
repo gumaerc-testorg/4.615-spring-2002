@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,17 +11,17 @@ title: 10 - The Reign of Sultan al-Nasir Muhammad (1293-1341)
 uid: b5a5d49b-2169-a890-6fd3-f15eef9cfc0f
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/lec9) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/lec11)
+{{% resource_link 95b1c19c-5543-1417-3714-2bd40a32bc4d "Previous Lecture" %}} | {{% resource_link b156daf5-5ea0-56ee-477f-0568f6d4912e "Next Lecture" %}}
 
 **Concepts**
 
-**Al-Nasir Muhammad:** (1293-1341 with two interruptions) The most important of the [Mamluk]({{< baseurl >}}/pages/related-resources/glossary#mamluk) sultans. Cairo more than doubled in size during his long reign. He dug a new canal (al-khalij al-Nasiri), and developed with his amirs the areas around it and along the new shore of the receding Nile. He also monumentalized the Citadel and redefined its relationship to the city by surrounding it with new urban areas to the south, east, and west.  
+**Al-Nasir Muhammad:** (1293-1341 with two interruptions) The most important of the {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "Mamluk" "#mamluk" %}} sultans. Cairo more than doubled in size during his long reign. He dug a new canal (al-khalij al-Nasiri), and developed with his amirs the areas around it and along the new shore of the receding Nile. He also monumentalized the Citadel and redefined its relationship to the city by surrounding it with new urban areas to the south, east, and west.  
        
 **Khanqah:** Establishment for sufis which usually contains a mosque, quarters for a number of sufis, and a meeting hall where the hudur (act of devotion) is performed.  
        
 **Waqf:** Endowment deed. In the Mamluk period, amirs and dignitaries endowed charitable structures both for pious reasons and as a means to preserve some of the wealth given them by the state in the form of iqta&grave;, which would otherwise be taken from them.
 
-**The [Madrasa]({{< baseurl >}}/pages/related-resources/glossary#Madrasa) of Sultan al-Nasir Muhammad:** (1295-1303) Adjacent to the complex of Qalawun, this four-[iwan]({{< baseurl >}}/pages/related-resources/glossary#iwan) madrasa is famous for its portal, a spoil of war from a Gothic church in Acre, its square [minaret]({{< baseurl >}}/pages/related-resources/glossary#minaret) which is totally covered with stucco decoration, and its Persianized stucco-decorated [mihrab]({{< baseurl >}}/pages/related-resources/glossary#mihrab).
+**The {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "Madrasa" "#Madrasa" %}} of Sultan al-Nasir Muhammad:** (1295-1303) Adjacent to the complex of Qalawun, this four-{{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "iwan" "#iwan" %}} madrasa is famous for its portal, a spoil of war from a Gothic church in Acre, its square {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "minaret" "#minaret" %}} which is totally covered with stucco decoration, and its Persianized stucco-decorated {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "mihrab" "#mihrab" %}}.
 
 **The Madrasa-Qubba-Khanqah of Amirs Salar and Sanjar:** (1304-5) Tucked in a bent of a major thoroughfare, this double-domed complex dominate the approach from the mosque of Ibn Tulun. It has the tombs of two amirs and a madrasa-khanqah next to them.
 

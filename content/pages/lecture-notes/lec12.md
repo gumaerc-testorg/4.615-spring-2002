@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ title: 12 - The Development of Residential Architecture in Bahri Cairo
 uid: 2bf4e669-6ae9-c543-d60e-6c19a85bfd60
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/lec11) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/lec13)
+{{% resource_link b156daf5-5ea0-56ee-477f-0568f6d4912e "Previous Lecture" %}} | {{% resource_link f92bbf26-4b94-d2ce-3a1c-ae00792606dd "Next Lecture" %}}
 
   
 **Concepts**

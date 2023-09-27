@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,12 +11,12 @@ title: 4 - The Foundation of Fatimid al-Qahira
 uid: a8fa7a80-0a9d-1df1-7321-94e3b9cef602
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/lec3) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/lec5)
+{{% resource_link d3cb20c3-ca01-85b1-b4ef-52cc28e51a26 "Previous Lecture" %}} | {{% resource_link 72c5f5ed-463b-d382-8971-1de94bece98b "Next Lecture" %}}
 
   
 **Concept**
 
-**The Shi&grave;ites:** From shi&grave;a (supporters), who recognized [&grave;Ali]({{< baseurl >}}/pages/related-resources/glossary#Ali) as the only legitimate imam (political and religious leader) after the Prophet. They developed into several branches which differed primarily in the number of imams they recognized after &grave;Ali. Most important are: 
+**The Shi&grave;ites:** From shi&grave;a (supporters), who recognized {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "&grave;Ali" "#Ali" %}} as the only legitimate imam (political and religious leader) after the Prophet. They developed into several branches which differed primarily in the number of imams they recognized after &grave;Ali. Most important are: 
 
 *   _The Twelvers Imamis:_ Who constitute the majority of Shi&grave;ites, and recognize twelve descendants of &grave;Ali as imams.  
     
@@ -31,9 +32,9 @@ uid: a8fa7a80-0a9d-1df1-7321-94e3b9cef602
 
 The Great Mosque of Mahdiyya, Tunisia: (ca. 920) Built in the Fatimid new capital, al-Mahdiyya, near Qayrawan, it displays Fatimid monumental additions to a modified hypostyle plan.
 
-**Al-Qahira (Cairo):** The new royal city of Egypt established north of [Fustat]({{< baseurl >}}/pages/related-resources/glossary#Fustat) by the Fatimids upon their conquest of the country in 969. It had a regular plan running parallel to the Khalij (Canal of the Nile) with a main north-south thoroughfare.
+**Al-Qahira (Cairo):** The new royal city of Egypt established north of {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "Fustat" "#Fustat" %}} by the Fatimids upon their conquest of the country in 969. It had a regular plan running parallel to the Khalij (Canal of the Nile) with a main north-south thoroughfare.
 
-**Majlis:** A T-shaped architectural unit with a large central hall flanked by two smaller spaces. The three spaces are fronted with a portico (riwaq) which opens onto the courtyard via three doors. The type is believed to have been imported from [Samarra]({{< baseurl >}}/pages/related-resources/glossary#Samarra) to Egypt by Ibn Tulun.
+**Majlis:** A T-shaped architectural unit with a large central hall flanked by two smaller spaces. The three spaces are fronted with a portico (riwaq) which opens onto the courtyard via three doors. The type is believed to have been imported from {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "Samarra" "#Samarra" %}} to Egypt by Ibn Tulun.
 
 **Fatimid (and pseudo-Fatimid) Palaces:** 
 

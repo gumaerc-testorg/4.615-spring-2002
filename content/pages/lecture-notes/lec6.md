@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ title: 6 - Late Fatimid Period (1074-1171)
 uid: 7f1ee496-c3e9-b054-2bfa-d8c7549f993a
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/lec5) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/lec7)
+{{% resource_link 72c5f5ed-463b-d382-8971-1de94bece98b "Previous Lecture" %}} | {{% resource_link 6a745240-ada4-c1be-e59a-1f62b1f5a05b "Next Lecture" %}}
 
   
 **Concepts**
@@ -21,15 +22,15 @@ uid: 7f1ee496-c3e9-b054-2bfa-d8c7549f993a
 
 **The Mashhad al-Juyyushi:** Built by Badr in 1085 and identified as a mashhad, though its real function is puzzling. The current interpretation is that Badr built it as a memorial to commemorate his victories and rise to power.
 
-**The Mashhad of Umm Kulthum:** (1122) A memorial for Umm Kulthum, a popular saint and descendant of [&grave;Ali]({{< baseurl >}}/pages/related-resources/glossary#Ali).   
+**The Mashhad of Umm Kulthum:** (1122) A memorial for Umm Kulthum, a popular saint and descendant of {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "&grave;Ali" "#Ali" %}}.   
        
-**Al-Aqmar Mosque:** A small mosque built in 1125 north of the Eastern palace and celebrated for its unusual decorated façade and its plan which accommodate both the [qibla]({{< baseurl >}}/pages/related-resources/glossary#Qibla) orientation and the streets pattern. 
+**Al-Aqmar Mosque:** A small mosque built in 1125 north of the Eastern palace and celebrated for its unusual decorated façade and its plan which accommodate both the {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "qibla" "#Qibla" %}} orientation and the streets pattern. 
 
 **The Mashhad of Sayyida Ruqayya:** (1133) A memorial for Ruqayya, a popular saint and descendant of &grave;Ali.
 
 **The Mausoleum of Yahya al-Shabih:** (ca. 1150) A mausoleum built around the cenotaph of Yahaya, called al-shabih (the look-alike) because he resembled the Prophet, and other descendants of &grave;Ali, all buried there in the 870s-80s.
 
-**Al-Salih Tala'i&grave; Mosque:** Built south of the walls of [al-Qahira]({{< baseurl >}}/pages/related-resources/glossary#alQahira) in 1160 by the vizier al-Salih Tala'i&grave; and intended as a mashhad for the head of Husayn, the son of &grave;Ali and most venerated martyr in Shiism. It was turned into a mosque when the caliph decided that the head of Husayn should be buried inside his palace.
+**Al-Salih Tala'i&grave; Mosque:** Built south of the walls of {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "al-Qahira" "#alQahira" %}} in 1160 by the vizier al-Salih Tala'i&grave; and intended as a mashhad for the head of Husayn, the son of &grave;Ali and most venerated martyr in Shiism. It was turned into a mosque when the caliph decided that the head of Husayn should be buried inside his palace.
 
 **Architectural terms:**  
        
@@ -37,7 +38,7 @@ uid: 7f1ee496-c3e9-b054-2bfa-d8c7549f993a
        
 **Mashhad:** A complex term that means either a memorial for a shahid (witness of the greatness of God, but later exclusively meaning martyr) or a memorial for a true vision, which mostly involves the Prophet or members of his family.   
        
-**Muqarnas:** One of the most distinctive architectural elements, called usually the stalacite pendentives or honeycomb vaults. Muqarnas units appear in domes' transitional zones, in cornices and friezes, in conches above entrances, and on friezes supporting balconies of [minarets]({{< baseurl >}}/pages/related-resources/glossary#minaret). The origin and date of first appearance of muqarnas are not clear. It is used for decorative purposes and several symbolic meanings have been proposed for it. 
+**Muqarnas:** One of the most distinctive architectural elements, called usually the stalacite pendentives or honeycomb vaults. Muqarnas units appear in domes' transitional zones, in cornices and friezes, in conches above entrances, and on friezes supporting balconies of {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "minarets" "#minaret" %}}. The origin and date of first appearance of muqarnas are not clear. It is used for decorative purposes and several symbolic meanings have been proposed for it. 
 
 **Monuments**
 {{< image-gallery id="7f1ee496-c3e9-b054-2bfa-d8c7549f993a_nanogallery2" baseUrl="/courses/4-615-the-architecture-of-cairo-spring-2002/" >}}

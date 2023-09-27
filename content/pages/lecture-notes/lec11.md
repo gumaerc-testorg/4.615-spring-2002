@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ title: 11 - The Late Bahri Period (1341-82)
 uid: b156daf5-5ea0-56ee-477f-0568f6d4912e
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/lec10) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/lec12)
+{{% resource_link b5a5d49b-2169-a890-6fd3-f15eef9cfc0f "Previous Lecture" %}} | {{% resource_link 2bf4e669-6ae9-c543-d60e-6c19a85bfd60 "Next Lecture" %}}
 
   
 **Concepts**

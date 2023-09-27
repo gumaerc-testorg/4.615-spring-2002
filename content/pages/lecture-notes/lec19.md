@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ title: 19 - Competing Neo Styles in the Early Twentieth Century
 uid: cff8aa1d-00cc-c349-7ca6-b20c9f80e701
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/lec18) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/lec20)
+{{% resource_link da2df894-b53c-07ef-4214-59245f03509f "Previous Lecture" %}} | {{% resource_link 71b15993-bc9b-fa4b-56b4-59c2132c770a "Next Lecture" %}}
 
 **  
 Concepts**

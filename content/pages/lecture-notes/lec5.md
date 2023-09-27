@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ title: 5 - Fatimid Mosques in Cairo
 uid: 72c5f5ed-463b-d382-8971-1de94bece98b
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/lec4) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/lec6)
+{{% resource_link a8fa7a80-0a9d-1df1-7321-94e3b9cef602 "Previous Lecture" %}} | {{% resource_link 7f1ee496-c3e9-b054-2bfa-d8c7549f993a "Next Lecture" %}}
 
   
 **Concepts**
@@ -21,12 +22,12 @@ uid: 72c5f5ed-463b-d382-8971-1de94bece98b
     
 *   972: First Friday prayer held at the mosque.
     
-*   988: First organized teaching at al-Azhar, 35 scholars are housed nearby and paid by the Fatimid state to teach the [Isma&grave;ili]({{< baseurl >}}/pages/related-resources/glossary#Ismaili) doctrine.
+*   988: First organized teaching at al-Azhar, 35 scholars are housed nearby and paid by the Fatimid state to teach the {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "Isma&grave;ili" "#Ismaili" %}} doctrine.
     
 
 **Al-Hakim bi Amr Allah:** (996-1021) The third Fatimid caliph in Egypt and perhaps the most enigmatic and most controversial. 
 
-*   1009: Caliph al-Hakim establishes a [Waqf]({{< baseurl >}}/pages/related-resources/glossary#Waqf) for the mosque. 
+*   1009: Caliph al-Hakim establishes a {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "Waqf" "#Waqf" %}} for the mosque. 
     
 *   1035: First renovation of the mosque by caliph al-Amir.
     
@@ -42,7 +43,7 @@ uid: 72c5f5ed-463b-d382-8971-1de94bece98b
     
 *   The use of keel-shaped arches in porticoes and arcades.
     
-*   The profusion of fine stucco decoration, especially in [mihrabs]({{< baseurl >}}/pages/related-resources/glossary#Mihrabs) and qibla walls. 
+*   The profusion of fine stucco decoration, especially in {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "mihrabs" "#Mihrabs" %}} and qibla walls. 
     
 *   The dependence on iconographic inscriptions, especially on the entrance facade.
     

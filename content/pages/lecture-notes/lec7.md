@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,16 +11,16 @@ title: 7 - The Ayyubid Period (1171-1250) - The City and the Citadel
 uid: 6a745240-ada4-c1be-e59a-1f62b1f5a05b
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/lec6) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/lec8)
+{{% resource_link 7f1ee496-c3e9-b054-2bfa-d8c7549f993a "Previous Lecture" %}} | {{% resource_link 37414c02-2ec9-1fd5-2f6f-95d5fbba9af0 "Next Lecture" %}}
 
   
 **Concepts**
 
-**The [Sunni]({{< baseurl >}}/pages/related-resources/glossary#Sunni) Revival:** A term used to designate the movement initiated by the Ghaznavids of Afghanistan (977-1186) which culminated with the Seljuqs who actively sought the elimination of [Shi&grave;ite]({{< baseurl >}}/pages/related-resources/glossary#Shiite) principalities in the Islamic world and the Shi&grave;ite grip on the [Abbasid]({{< baseurl >}}/pages/related-resources/glossary#abbasid) Caliphate in [Baghdad]({{< baseurl >}}/pages/related-resources/glossary#baghdad) and who sponsored and fostered the renaissance in Sunni theology and jurisprudence.  
+**The {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "Sunni" "#Sunni" %}} Revival:** A term used to designate the movement initiated by the Ghaznavids of Afghanistan (977-1186) which culminated with the Seljuqs who actively sought the elimination of {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "Shi&grave;ite" "#Shiite" %}} principalities in the Islamic world and the Shi&grave;ite grip on the {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "Abbasid" "#abbasid" %}} Caliphate in {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "Baghdad" "#baghdad" %}} and who sponsored and fostered the renaissance in Sunni theology and jurisprudence.  
        
-**The Crusades:** A series of campaigns launched by Christian Europe against the Islamic east, ostensibly to liberate the Holy Land. After the conquest of Jerusalem in 1099, four Latin principalities were founded in the area, the last of which was eliminated in 1293 by the [Mamluks]({{< baseurl >}}/pages/related-resources/glossary#mamluk).  
+**The Crusades:** A series of campaigns launched by Christian Europe against the Islamic east, ostensibly to liberate the Holy Land. After the conquest of Jerusalem in 1099, four Latin principalities were founded in the area, the last of which was eliminated in 1293 by the {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "Mamluks" "#mamluk" %}}.  
        
-**Salah al-Din (Saladin):** A general in the Zangid army sent to Egypt, he managed to abolish the Fatimid caliphate in 1176 and to restore Sunnism to the country. He later established a new dynasty, engaged in a war of attrition against the Crusaders, and encircled the two cities of [Fustat]({{< baseurl >}}/pages/related-resources/glossary#fustat) and [al-Qahira]({{< baseurl >}}/pages/related-resources/glossary#alQahira) in one wall and built the Citadel of Cairo.
+**Salah al-Din (Saladin):** A general in the Zangid army sent to Egypt, he managed to abolish the Fatimid caliphate in 1176 and to restore Sunnism to the country. He later established a new dynasty, engaged in a war of attrition against the Crusaders, and encircled the two cities of {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "Fustat" "#fustat" %}} and {{% resource_link 26aa7596-7502-fb49-ebfb-97b52a20dedc "al-Qahira" "#alQahira" %}} in one wall and built the Citadel of Cairo.
 
 **Krak des Chevaliers:** The most important Crusaders' castles in Syria (12-13th c.). Its last phase of building during the 13th century illustrates the incorporation of new fortification techniques in response to technical advances in siege machines.  
        
