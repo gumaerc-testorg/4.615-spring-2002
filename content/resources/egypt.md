@@ -2,6 +2,7 @@
 content_type: resource
 description: Aerial black and white photograph of pyramids.
 file: /courses/4-615-the-architecture-of-cairo-spring-2002/9398f1c61593de7739af9a5897867eec_egypt.jpg
+file_size: 16351
 file_type: image/jpeg
 image_metadata:
   caption: ''
