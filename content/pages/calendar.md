@@ -8,11 +8,9 @@ ocw_type: CourseSection
 title: Calendar
 uid: 0fb63345-05fd-5eac-43e7-f2ef16d89e4b
 ---
-For full reading citations, please see the {{% resource_link 3bc0f83c-8525-c246-56c1-c467c8edf33d "readings" %}} section.  And for a printable version of this calendar, please click here ({{% resource_link f132585d-9c04-1b0d-b399-3e9fd92e9dde "PDF" %}}).
+For full reading citations, please see the {{% resource_link "3bc0f83c-8525-c246-56c1-c467c8edf33d" "readings" %}} section.  And for a printable version of this calendar, please click here ({{% resource_link "f132585d-9c04-1b0d-b399-3e9fd92e9dde" "PDF" %}}).
 
-{{< resource c78b1318-7e3e-34d0-7310-c29e9bc3c5da >}}
-
-## Part 1 - Beginnings - History, Geography, and Religion
+{{< resource uuid="c78b1318-7e3e-34d0-7310-c29e9bc3c5da" >}} **Part 1 - Beginnings - History, Geography, and Religion**
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -29,7 +27,7 @@ REQUIRED READINGS
 - History and geography.   
 - The Nile and the site of Cairo.   
 - The legacy of ancient Egypt.   
-- Egypt on the eve of Islam      
+- Egypt on the eve of Islam       
     Hellenism.   
 - Christianity and the Copts.   
 - The coming of Islam: Arabia and Egypt.
@@ -76,9 +74,7 @@ Dickie, James. "Allah and Eternity: Mosques, Madrasas, and Tombs." In *Architect
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< resource 13529e9f-a4e7-72b0-5fcb-df85888ea368 >}}
-
-## Part 5 - Modernization and After - Muhammad 'Ali to the Present
+{{< resource uuid="13529e9f-a4e7-72b0-5fcb-df85888ea368" >}} **Part 5 - Modernization and After - Muhammad 'Ali to the Present**
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -144,7 +140,7 @@ Rodenbeck, John. "The Present Situation of the Historic City: a Road Not Taken.
 - Ethnographer-painters and the romanticization of Cairo.   
 - The Comité de preservation des monuments du Caire and preservation.   
 - Cairene architecture in the late nineteenth century.   
-- Historicism and the Mamluk revival.      
+- Historicism and the Mamluk revival.       
     Other Orientalizing styles.  
 - Cosmopolitan architecture.
 
