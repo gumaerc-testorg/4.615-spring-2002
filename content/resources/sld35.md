@@ -8,7 +8,7 @@ description: Photograph of the shaft of the Nilometer at Rawda Island. A water i
   carved Kufic Qur'anic inscriptions referring to water, prosperity, and vegetation,
   and therefore playing an iconographic role in this crucial structure for the understanding
   of the economic and social history of Egypt.
-file: /courses/4-615-the-architecture-of-cairo-spring-2002/dc101609082a0da7df1938459befe33e_SLD35.gif
+file: /ol-ocw-studio-app/courses/4-615-the-architecture-of-cairo-spring-2002/dc101609082a0da7df1938459befe33e_SLD35.gif
 file_size: 4090
 file_type: image/gif
 image_metadata:
